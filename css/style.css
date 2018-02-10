@@ -2,7 +2,7 @@
 body{
 	font-family: 'Quicksand', sans-serif; /* best fonts for the paragraphs */
 	color: #2f364c;
-	background-image: url("../images/background.png");
+	background-image: url("../images/background.PNG");
 	background-repeat: none;
 	background-size: cover;
     background-color: #ffffff;
