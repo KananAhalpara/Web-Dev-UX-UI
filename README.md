@@ -1,7 +1,7 @@
 # Web-Dev-UX-UI
 Web Development Hybrid- 3...Design a simple but good design for one page of UX/UI
 <br><br>
-
+Your site is ready to be published at https://kananahalpara.github.io/Web-Dev-UX-UI/.
 <br><br>
 ASSIGNMENT : AS FOLLOWS : 
 <br>
