@@ -1,0 +1,158 @@
+
+body{
+	font-family: 'Quicksand', sans-serif; /* best fonts for the paragraphs */
+	color: #2f364c;
+	background-image: url("../images/background.png");
+	background-repeat: none;
+	background-size: cover;
+    background-color: #ffffff;
+    max-width: 100%;
+    height:auto;
+}
+
+.wrapper{
+	clear: both;
+	max-width: 80%;
+	height: auto;
+	margin: 10% auto;
+	background: #fff;
+	padding: 4%;
+	margin-bottom: 5%;
+	box-shadow: 0px 0px 20px #e0e0e0; 
+}
+
+header{
+	width: 100%;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #2f364c;
+	padding: 0;
+	margin: 0;
+	float: left;
+	box-shadow: 0px 0px 20px #e0e0e0; 
+	position: fixed;
+	background-color: #fff;
+}
+
+h1{
+	font-family: 'Josefin Sans', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	text-align: center;
+}
+
+h4{
+	color: #ffdc00;
+}
+
+p{	
+	line-height: 1.4;
+	font-size: 1.2em;
+}
+
+a{
+	text-decoration: none;
+	color: #b452fa;
+}
+
+nav a:link,
+nav a:visited{
+	color: #6c38f7;
+}
+
+nav a:hover,
+nav a:active{
+	color: #b452fa;
+}
+
+
+.logo{
+	width: 60px;
+	margin: 10px;
+}
+
+.menu{
+	margin-top: 2em;
+}
+
+
+ul{
+	list-style-type: none;
+}
+
+nav ul li{
+	margin: 0;
+	padding: 0;
+	float: left;
+	margin-right: 4em;
+	text-transform: uppercase;
+}
+
+.header1text{
+	text-align: center;
+	padding:7em 0;
+}
+.header1text h1{
+	font-family: 'Josefin Sans', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	line-height: 5em;
+}
+
+
+.button-top{
+	background-color:#41eac0;
+	color:#fff;
+	padding: 1em 4em ;
+	letter-spacing: 4px;
+	border-radius: 50px;
+	font-size: 1.1em;
+	font-weight: 700;
+	text-align: center;
+}
+
+ .button-top:hover,
+ .button-top:active{
+	color:#41eac0;
+	background-color: #fff;
+	border: solid 2px #41eac0;
+	border-radius: 50px;
+}
+
+
+.button-footer{
+	padding: 0.5em 4em ;
+	border: solid 2px;
+	color: #b452fa;
+	border-radius: 50px;
+	border-color: #b452fa;
+	letter-spacing: 4px;
+}
+
+.button-footer :hover,
+.button-footer :active{
+	padding: 0.5em 4em ;
+	border: solid 2px;
+	border-radius: 50px;
+	border-color: #b452fa;
+	letter-spacing: 4px;
+	color:#f7f7f7;
+	background-color: #b452fa;
+}
+
+footer{
+	max-width: 100%;
+	height: auto;
+	text-align: center;
+	background: #2f364c;
+	color: #f7f7f7;
+	padding: 2em;
+	letter-spacing: 4px;
+	clear: both;
+}
+
+footer p{
+	font-size: .6em;
+	line-height: 4em;
+}
+
+
